@@ -17,4 +17,4 @@ A Machine Learning image based model for programming language classification tas
 
 ## Usage
 
-Check ***SourceCodeClassifier.ipynb*** for usage.
+Check ***issc.ipynb*** for usage.
